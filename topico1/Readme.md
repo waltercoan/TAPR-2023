@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # Tópicos Avançados em Programação (TAPR)
 ## Introdução sobre Microsserviços
 
