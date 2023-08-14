@@ -26,3 +26,12 @@
 - Microsserviços devem compartilhar uma única instância de banco de dados?
 - O que é Continuous Delivery e Continuous Integration?
 - Por que a tolerância a falhas é um requisito fundamental para microsserviços?
+
+### Domain-Driven Design e Bounded Contexts
+
+### [Livro BUILDING EVENT-DRIVEN MICROSERVICES](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/ref=sr_1_1?keywords=building+event+driven+microservices&qid=1692051103&sprefix=building+event%2Caps%2C290&sr=8-1&asin=1492057894&revisionId=&format=4&depth=1)
+
+### [Domain-Driven Design](https://blog.xpeducacao.com.br/domain-driven-design-ddd/)
+
+### Perguntas
+- Definir, segundo o DDD, Domain, Subdomain, Domain Model e Bounded context?
