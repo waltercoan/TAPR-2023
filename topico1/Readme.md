@@ -37,3 +37,4 @@
 - Definir, segundo o DDD, Domain, Subdomain, Domain Model e Bounded context?
 
 ### [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
+### [Domain Analysis](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis?WT.mc_id=AZ-MVP-5003638)
