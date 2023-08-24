@@ -35,3 +35,5 @@
 
 ### Perguntas
 - Definir, segundo o DDD, Domain, Subdomain, Domain Model e Bounded context?
+
+### [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
